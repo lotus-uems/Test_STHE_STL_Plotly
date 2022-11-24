@@ -13,6 +13,10 @@
 
 Ноутбук для выполнения задания: ---
 
+Визуализация данных по температурам:
+
+![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/sthe_plotly.png)
+
 Пример визуализации данных:
 
 ![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/heat-exchanger.png) 
