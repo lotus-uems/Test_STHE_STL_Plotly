@@ -15,7 +15,7 @@
 
 Пример визуализации данных:
 
-![alt text](https://github.com/lotus-uems/Test_BIM_FDS/blob/main/gbXML.png) 
+![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/heat-exchanger.png) 
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
