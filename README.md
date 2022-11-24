@@ -11,7 +11,7 @@
 1. Перевести модель .STL в формат plotly.Mesh (это уже реализовано в прилагаемом ноутбуке)
 2. Наложить на полученную визуализацию в plotly данные по температурам
 
-Ноутбук для выполнения задания: [---](https://colab.research.google.com/drive/1gHpfqoH9zBo_HrIOLLe_oIYEe0xNJ-En?usp=sharing)
+Ноутбук для выполнения задания: https://colab.research.google.com/drive/1gHpfqoH9zBo_HrIOLLe_oIYEe0xNJ-En?usp=sharing
 
 Визуализация данных по температурам:
 
