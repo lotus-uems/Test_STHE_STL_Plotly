@@ -21,7 +21,7 @@
 
 Пример уже совмещенной визуализации данных в 3Д модели:
 
-![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/heat-exchanger.png) 
+![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/22606154_ShellTemps_in_STL.png) 
 
 Для связи по всем вопросам, пишите в телеграм: @TAU15
 
