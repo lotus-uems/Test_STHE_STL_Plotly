@@ -17,7 +17,7 @@
 
 Пример визуализация данных по температурам:
 
-![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/sthe_plotly.png)
+![alt text](https://github.com/lotus-uems/Test_STHE_STL_Plotly/blob/main/sthe_plotly.png) 
 
 Пример уже совмещенной визуализации данных в 3Д модели:
 
